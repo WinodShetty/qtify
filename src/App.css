@@ -1,6 +1,8 @@
-h1{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+body{
     background-color: skyblue;
+}
+h1{
+    height: 50%;
+    width: 50%;
+   
 }
