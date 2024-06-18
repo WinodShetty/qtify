@@ -1,10 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Navbar from "./components/navbar/Header";
 
 function App() {
   return (
     <div className="App">
-      <h1>QTIFY UNDER PROGRESS</h1>
+      <Navbar />
     </div>
   );
 }
