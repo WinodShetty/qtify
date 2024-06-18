@@ -11,8 +11,10 @@ const Button = ({ text, onClick }) => {
 const buttonStyle = {
   padding: '8px 16px',
   fontSize: '16px',
+  fontFamily: 'Poppins,sans-serif',
   backgroundColor: '#000',
-  color: 'white',
+  fontWeight: 'bold',
+  color: 'green',
   border: 'none',
   borderRadius: '4px',
   cursor: 'pointer',
